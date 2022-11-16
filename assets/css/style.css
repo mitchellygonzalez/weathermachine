@@ -25,3 +25,40 @@
 .city-input {
     background-color: rgb(255, 228, 170);
 }
+
+section{
+    border: 1px solid red;
+
+}
+
+div {
+    border: 1px solid blue
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#left {
+    width: 30%;
+    padding: 10px;
+}
+
+#right {
+    width: 60%;
+    padding: 10px;
+
+}
+
+#forecastWeather {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.days {
+    width: 20%;
+    padding: 10px
+}
